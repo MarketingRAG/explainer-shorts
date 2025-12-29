@@ -1,0 +1,5 @@
+VideoName,Step,ImageFile,Text
+TestVideo,1,step1.png,"This is step one of the test video."
+TestVideo,2,step2.png,"This is step two of the test video."
+TestVideo,3,step2.png,"This is step three, reusing the image from step two."
+AnotherVideo,1,step1.png,"This is a different video."

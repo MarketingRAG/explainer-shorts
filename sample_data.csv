@@ -1,0 +1,5 @@
+VideoName,Step,ImageFile,Text
+DemoVideo,1,example.jpg,Welcome to the video generator. This is the first step.
+DemoVideo,2,example.jpg,You can upload images and reference them here.
+DemoVideo,3,example.jpg,The video will stitch these steps together.
+AnotherVideo,1,example.jpg,This is a second video in the same CSV.
